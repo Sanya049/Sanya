@@ -1,0 +1,7 @@
+body{
+    background-image: url(img/wooden-object2.png), url(img/texture1.jpg);
+    background-repeat: no-repeat, repeat ;
+    background-attachment: fixed, scroll ;
+    background-position: left bottom, center ;
+    margin:0px;
+    }
